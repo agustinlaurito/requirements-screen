@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/css">
+        <file>css.qss</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Acquatron solo.png</file>
+        <file>cajarequerimiento.png</file>
+        <file>calendario.png</file>
+        <file>sinfecha.png</file>
+        <file>info.png</file>
+        <file>checkboxcheck.png</file>
+        <file>checkboxempty.png</file>
+        <file>minimizar.png</file>
+        <file>logo.ico</file>
+        <file>acquatron con nombre.png</file>
+    </qresource>
+</RCC>

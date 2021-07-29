@@ -1,0 +1,155 @@
+QLabel#lbl_empresapedido
+{
+font-size: 26pt;
+font-weight: bold;
+border-radius:15px;
+padding: 10px;
+}
+
+QLabel#lbl_numero
+{
+font-size: 18pt;
+font-weight: bold;
+}
+
+QLabel#lbl_conplazoentrega
+{
+font-size: 16pt;
+font-weight: bold;
+background: #FFD484;
+border-radius: 10px;
+padding: 7px;
+}
+
+QLabel#lbl_sinplazoentrega
+{
+font-size: 16pt;
+}
+QListWidget
+{
+background: #F2F2F2;
+border-radius: 10px;
+padding: 10px;
+font-family: Quicksand;
+font-size: 16px;
+font-weight: bold;
+}
+
+
+QLabel#lbl_pedido
+{
+font-size: 16pt;
+}
+
+QLabel#lbl_notas
+{
+font-weight: bold;
+Background: #FFD484;
+border-radius: 10px;
+padding: 10px;
+}
+
+QLabel#lbl_prioridad
+{
+Background: #F2F2F2;
+padding: 10px;
+border-radius:15px;
+font-weight: bold;
+}
+
+QLabel#lbl_itemcant
+{
+font-weight: bold;
+}
+
+QLabel#lbl_itemdesc
+{
+font-weight: bold;
+}
+
+QLabel#lbl_guion
+{
+font-weight: bold;
+}
+QLabel#lbl_item
+{
+font-weight: bold;
+}
+
+QLabel
+{
+font-family: Quicksand;
+font-size: 16pt;
+}
+
+
+
+QGroupBox#box_item
+{
+Background-color: #F2F2F2;
+border-radius: 10px;
+}
+
+QGroupBox#Box_normal
+{
+Background-color: #9fdef5;
+border-radius:10px;
+}
+QGroupBox#Box_urgente
+{
+Background-color: #FF9084;
+border-radius:10px;
+}
+
+QGroupBox#Box_media
+{
+Background-color: #F69962;
+border-radius:10px;
+}
+
+QGroupBox#Box_media
+{
+Background-color: #F69962;
+border-radius:10px;
+}
+
+QGroupBox#group_opciones
+{
+Background-color: #F2F2F2;
+border-radius:10px;
+}
+
+QCheckBox::indicator:unchecked {
+    image: url(:/images/checkboxempty.png);
+}
+
+QCheckBox::indicator:checked {
+    image: url(:/images/checkboxcheck.png);
+}
+QCheckBox::indicator
+{
+    width: 30px;
+    height: 30px;
+}
+QCheckBox
+{
+font-family: Quicksand;
+font-size:14pt;
+}
+
+
+QFrame
+{
+border: 0px;
+border-radius:10px;
+}
+
+
+
+
+
+
+
+
+
+
